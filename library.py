@@ -1,5 +1,4 @@
 print("library management system")
-a=6
-f=9
-a+f
+print("student registration module")
+print("students records stored")
 
