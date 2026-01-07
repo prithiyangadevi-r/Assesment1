@@ -1,4 +1,3 @@
 print("library management system")
-print("student registration module")
-print("students records stored")
+print("student records saved")
 
